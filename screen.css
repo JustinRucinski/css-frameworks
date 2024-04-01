@@ -3,12 +3,12 @@ body{
 }
 
 .navbar{
-  background: #F7F3E3;
+  background: #2B2118;
   padding: 10px;
 }
 
 .navbar-brand{
- color: #2B2118;
+ color: #AF9164;
  font-size: 30px;
  font-family: tahoma;
  font-weight: bold;
@@ -20,7 +20,7 @@ body{
 
 .nav-link{
   font-size: 20px;
-  color: black;
+  color: #F7F3E3;
 }
 
 .nav-link:hover{
