@@ -1,1 +1,68 @@
-/* Add screen styles below */
+body{
+  background: #AF9164;
+}
+
+.navbar{
+  background: #F7F3E3;
+  padding: 10px;
+}
+
+.navbar-brand{
+ color: #2B2118;
+ font-size: 30px;
+ font-family: tahoma;
+ font-weight: bold;
+}
+
+.navbar-brand:hover{
+  color: #6F1A07;
+}
+
+.nav-link{
+  font-size: 20px;
+  color: black;
+}
+
+.nav-link:hover{
+ color: #6F1A07;
+}
+
+.heading{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.container{
+  background-color: #F7F3E3;
+  margin-top: 100px;
+  border-radius: 10px;
+  box-shadow: 10px 15px #2B2118;
+}
+
+.btn-info{
+  width: 25%;
+  color: #f7f3e3;
+  letter-spacing: 3px;
+  background: #2b2118;
+  position: center;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.btn-info:hover{
+  transform: scale(1.05);
+  color: #fff;
+  background-color: #6f1a07;
+  border: 1px solid black;
+}
+
+.list {
+  font-family: tahoma;
+  font-size: 17px;
+}
+
+.photo{
+  width: 300px;
+  margin-left: 20px;
+}
