@@ -21,8 +21,8 @@ body{
 .nav-link{
   font-size: 18px;
   color: #2B2118;
-  font-weight: bold;
-  font-family: "Libre Baskerville", serif;
+  font-weight: 500;
+  font-family: "Montserrat"; 
 }
 
 .nav-link:hover{
@@ -33,6 +33,7 @@ body{
   text-align: center;
   font-size: 30px;
   font-weight: bold;
+  font-family: "Libre Baskerville", serif;
 }
 
 .container{
@@ -40,7 +41,7 @@ body{
   margin-top: 100px;
   border-radius: 10px;
   box-shadow: 10px 15px #2B2118;
-  font-family: "Libre Baskerville", serif;
+  font-family: "Montserrat"; 
 }
 
 .btn-info{
@@ -62,4 +63,8 @@ body{
 
 .list {
   font-size: 17px;
+}
+
+svg {
+  vertical-align: text-top;
 }
