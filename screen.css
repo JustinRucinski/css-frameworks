@@ -10,7 +10,7 @@ body{
 .navbar-brand{
  color: #2B2118;
  font-size: 30px;
- font-family: tahoma;
+ font-family: "Libre Baskerville", serif;
  font-weight: bold;
 }
 
@@ -22,6 +22,7 @@ body{
   font-size: 20px;
   color: #2B2118;
   font-weight: bold;
+  font-family: "Libre Baskerville", serif;
 }
 
 .nav-link:hover{
@@ -39,6 +40,7 @@ body{
   margin-top: 100px;
   border-radius: 10px;
   box-shadow: 10px 15px #2B2118;
+  font-family: "Libre Baskerville", serif;
 }
 
 .btn-info{
